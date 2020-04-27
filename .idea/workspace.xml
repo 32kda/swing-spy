@@ -24,12 +24,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b05d48eb-db6a-4123-b47d-59929994f50d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/META-INF/plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/resources/META-INF/plugin.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/liferay/ide/intellij/swingspy/SpyAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/liferay/ide/intellij/swingspy/SpyAction.java" afterDir="false" />
-    </list>
+    <list default="true" id="b05d48eb-db6a-4123-b47d-59929994f50d" name="Default" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -115,6 +110,14 @@
       <option name="presentableId" value="Default" />
       <updated>1508226048561</updated>
     </task>
+    <task id="LOCAL-00001" summary="1. Update to support IntelliJ 2020&#10;2. Add binding to Alt+Shift+F1">
+      <created>1588000732764</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588000732764</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -127,6 +130,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1. Update to support IntelliJ 2020&#10;2. Add binding to Alt+Shift+F1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1. Update to support IntelliJ 2020&#10;2. Add binding to Alt+Shift+F1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="94" key="#Project_Structure" timestamp="1587999154658">
@@ -185,5 +192,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="347" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588000030558" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1588000737901">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1588000737901" />
+    <state x="754" y="421" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1588000678948">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="754" y="421" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588000678948" />
   </component>
 </project>
